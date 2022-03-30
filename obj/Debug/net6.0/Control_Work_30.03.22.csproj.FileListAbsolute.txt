@@ -1,0 +1,15 @@
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/Control_Work_30.03.22
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/Control_Work_30.03.22.deps.json
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/Control_Work_30.03.22.runtimeconfig.json
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/Control_Work_30.03.22.dll
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/ref/Control_Work_30.03.22.dll
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/bin/Debug/net6.0/Control_Work_30.03.22.pdb
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.csproj.AssemblyReference.cache
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.AssemblyInfoInputs.cache
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.AssemblyInfo.cs
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.csproj.CoreCompileInputs.cache
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.dll
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/ref/Control_Work_30.03.22.dll
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.pdb
+/Users/yuliyaskripnik/Desktop/Control_Work_30.03.22/Control_Work_30.03.22/obj/Debug/net6.0/Control_Work_30.03.22.genruntimeconfig.cache
